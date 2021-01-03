@@ -1,2 +1,1 @@
-# elevator
-OOD of a basic elevator system
+# Elevator
